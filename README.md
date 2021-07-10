@@ -10,3 +10,9 @@
 <!---
     Master of Computer Science
 --->
+[![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=yujunhuics&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/yujunhuics/)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yujunhuics/count.svg" />
+</p>
