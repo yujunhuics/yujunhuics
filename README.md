@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Nested named entity recognition
 - 📫 email:cs.yujunhui@gmail.com
 - 🎓 Master of Computer Science
+- ✔  自2020，新生活，新仓库，新开始！
+- ✨ 
 
 <!---
     Master of Computer Science
