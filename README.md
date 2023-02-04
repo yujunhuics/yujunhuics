@@ -30,7 +30,7 @@
 
 + 🥉 人民网人工智能算法挑战赛-虚假信息检测任务-TOP5（优秀奖） 
 
-
++ 🥈🥉🥉 Kaggle一银两铜
 
 <!---
     Master of Computer Science
