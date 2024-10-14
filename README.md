@@ -1,8 +1,6 @@
 ## Introduction
 - 👋 余俊晖，曾获CCF、Kaggle、ICPR等国内外近二十项AI算法竞赛/评测冠亚季军。曾发表多篇SCI核心文章。
 - 💞️ 研究领域: 自然语言处理、大语言模型、文档智能, etc
-- 📈 技术公众号：**大模型自然语言处理**，定期分享前沿技术实践，包含自然语言处理、大语言模型、文档智能等。
-- 🔗 技术博客：[CSDN](https://blog.csdn.net/yjh_SE007)
 - ✔  From 2020, new life, new warehouse, new start!
 
 ## AI算法竞赛获奖经历
