@@ -1,5 +1,5 @@
 ## Introduction
-- 👋 余俊晖，曾获CCF、Kaggle、ICPR等国内外近二十项AI算法竞赛/评测冠亚季军。曾发表多篇SCI核心文章。
+- 👋 余俊晖，曾获CCF、Kaggle、ICPR等国内外近二十项AI算法竞赛/评测冠亚季军。曾发表SCI、顶会等文章多篇。
 - 💞️ 研究领域: 自然语言处理、大语言模型、文档智能, etc
 - ✔  From 2020, new life, new warehouse, new start!
 
