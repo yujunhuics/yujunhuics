@@ -3,7 +3,8 @@
 - 💞️ 研究领域: 自然语言处理、大语言模型、文档智能, etc
 - ✔  From 2020, new life, new warehouse, new start!
 - 技术博客公众号：
-  ![](we.png)
+  
+  <img src="we.png" width="30%" height="auto">
 
 ## AI算法竞赛
 
