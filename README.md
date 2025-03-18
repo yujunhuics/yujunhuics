@@ -55,6 +55,9 @@
 - DataFunSummit2025大模型时代的知识图谱架构峰会：多模态GraphRAG初探：文档智能+知识图谱+大模型结合范式
 - KBQA核心技术及结合大模型的texl2sql查询生成问答实践
 
+
+---
+
 <!---
     Master of Computer Science
 --->
