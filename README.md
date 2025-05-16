@@ -6,6 +6,7 @@
   <img src="we.png" width="30%" height="auto">
 
 ### AI算法竞赛
+- 🥈 ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）- TOP2(亚军)
 - 🥉 ICDAR 2025：Competition on Understanding Chinese College Entrance Exam Papers - TOP3（季军）
 - 🏆 ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition(ICPR 2024多行数学表达式识别竞赛)-TOP1(**冠军**) 
 - 🏆 CCL 2023 电信网络诈骗案件分类评测-TOP1（**冠军**） 
