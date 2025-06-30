@@ -1,9 +1,6 @@
 ## Introduction
 - 👋 余俊晖，曾获CCF、Kaggle、ICPR、ICDAR、CAIL、CCL等国内外近二十项AI算法竞赛/评测冠亚季军。曾发表SCI、顶会等文章多篇、专利数项。
 - 💞️ 研究领域: 自然语言处理、大语言模型、文档智能, etc
-- 技术博客公众号：大模型自然语言处理
-  
-  <img src="we.png" width="30%" height="auto">
 
 ### AI算法竞赛
 - 🥈 ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）- TOP2(亚军)
