@@ -3,9 +3,9 @@
 - 💞️ 研究领域: 自然语言处理、大语言模型、文档智能, etc
 
 ### AI算法竞赛
-- 🥈 ICDAR 2025 Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）- TOP2(亚军)
-- 🥉 ICDAR 2025：Competition on Understanding Chinese College Entrance Exam Papers - TOP3（季军）
-- 🏆 ICPR 2024 Competition on Multi-line Mathematical Expressions Recognition(ICPR 2024多行数学表达式识别竞赛)-TOP1(**冠军**) 
+- 🥈 ICDAR 2025（国际文档领域顶会） Competition on End-to-End Document Image Machine Translation Towards Complex Layouts（VLM-OCR-Free）- TOP2(亚军)
+- 🥉 ICDAR 2025（国际文档领域顶会）：Competition on Understanding Chinese College Entrance Exam Papers - TOP3（季军）
+- 🏆 ICPR 2024（国际模式识别顶会） Competition on Multi-line Mathematical Expressions Recognition(ICPR 2024多行数学表达式识别竞赛)-TOP1(**冠军**) 
 - 🏆 CCL 2023 电信网络诈骗案件分类评测-TOP1（**冠军**） 
 - 🥉 2023科大讯飞AI算法挑战大赛-校招简历信息完整性检测挑战赛 - 三等奖
 - 🥈 CAIL2022-中国法律智能评测-可解释类案匹配算法赛道-TOP2（二等奖）
